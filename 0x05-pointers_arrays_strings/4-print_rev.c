@@ -17,7 +17,7 @@ void print_rev(char *s)
 	/*reverses length of srting*/
 	for (r = i - 1; r >= s[i]; r--)
 	{
-		_putchar(s[r]);
+		putchar(s[r]);
 	}
-	_putchar('\n');
+	putchar('\n');
 }
