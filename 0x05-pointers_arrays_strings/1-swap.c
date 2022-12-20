@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * swap_int: program that swaps
+ * swap_int - program that swaps
  * @a: swap integer
  * @b: swap integer
  *
